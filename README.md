@@ -9,7 +9,7 @@ Automate CoinMarketCap watchlist management with this Python tool that helps ide
 
 **Requirements**
 
-- Python 3.8+
+- Python 3.9+
 - CoinMarketCap account credentials
 - Gemini API key
 
